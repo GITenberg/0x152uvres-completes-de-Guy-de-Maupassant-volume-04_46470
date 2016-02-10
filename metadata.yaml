@@ -1,0 +1,36 @@
+_repo: 0x152uvres-completes-de-Guy-de-Maupassant-volume-04_46470
+covers:
+- cover_type: archival
+  image_path: 46470/46470-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: "Mademoiselle Fifi -- Madame Baptiste -- La Rouille -- Marroca -- La\
+  \ Bûche -- La Relique -- Le Lit -- Fou? -- Réveil -- Une Ruse -- A Cheval -- Un\
+  \ Réveillon -- Mots d'Amour -- Une Aventure parisienne -- Deux Amis --\t Le Voleur\
+  \ -- Nuit de Noël -- Le Remplaçant -- M. Jocaste (inédit)\r\n\r\n\r\nNote -- Réponse\
+  \ à M. Francisque Sarcey -- Réponse à M. Albert Wolff (Les Bas-Fonds)"
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46470'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Œuvres complètes de Guy de Maupassant - volume 04
+url: http://www.gutenberg.org/ebooks/46470
