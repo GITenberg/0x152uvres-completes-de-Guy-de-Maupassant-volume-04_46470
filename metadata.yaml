@@ -1,9 +1,8 @@
 _repo: 0x152uvres-completes-de-Guy-de-Maupassant-volume-04_46470
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46470/46470-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46470-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -20,6 +19,8 @@ description: "Mademoiselle Fifi -- Madame Baptiste -- La Rouille -- Marroca -- L
   \ Réveillon -- Mots d'Amour -- Une Aventure parisienne -- Deux Amis --\t Le Voleur\
   \ -- Nuit de Noël -- Le Remplaçant -- M. Jocaste (inédit)\r\n\r\n\r\nNote -- Réponse\
   \ à M. Francisque Sarcey -- Réponse à M. Albert Wolff (Les Bas-Fonds)"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46470#0x152uvres-completes-de-Guy-de-Maupassant-volume-04
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
